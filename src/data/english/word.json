@@ -1,0 +1,27 @@
+{
+  "public_word": [
+    {
+      "word": "test",
+      "translate": "測試",
+      "relate": [
+        "try"
+      ],
+      "ex": ""
+    },
+    {
+      "word": "apple",
+      "translate": "蘋果",
+      "ex": "i have a apple"
+    },
+    {
+      "word": "egg",
+      "translate": "蛋",
+      "ex": ""
+    },
+    {
+      "word": "baby",
+      "translate": "寶貝",
+      "ex": ""
+    }
+  ]
+}
