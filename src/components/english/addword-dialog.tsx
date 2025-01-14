@@ -65,7 +65,7 @@ export function AddWordDialog() {
   return (
     <Dialog>
       <DialogTrigger asChild>
-        <Button>
+        <Button variant="secondary">
           新增單字
         </Button>
       </DialogTrigger>

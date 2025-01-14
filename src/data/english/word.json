@@ -1,26 +1,103 @@
 {
   "public_word": [
     {
-      "word": "test",
-      "translate": "測試",
-      "relate": [
-        "try"
-      ],
+      "word": "cattage",
+      "translate": "農舍",
       "ex": ""
     },
     {
-      "word": "apple",
-      "translate": "蘋果",
-      "ex": "i have a apple"
-    },
-    {
-      "word": "egg",
-      "translate": "蛋",
+      "word": "crisp",
+      "translate": "脆的",
       "ex": ""
     },
     {
-      "word": "baby",
-      "translate": "寶貝",
+      "word": "salty",
+      "translate": "鹹的",
+      "ex": ""
+    },
+    {
+      "word": "biscuit",
+      "translate": "小麵包",
+      "ex": ""
+    },
+    {
+      "word": "plum",
+      "translate": "梅子",
+      "ex": ""
+    },
+    {
+      "word": "preserve",
+      "translate": "蜜餞、保存",
+      "ex": ""
+    },
+    {
+      "word": "sprinkle",
+      "translate": "撒、削狀物",
+      "ex": ""
+    },
+    {
+      "word": "powdered milk",
+      "translate": "奶粉",
+      "ex": ""
+    },
+    {
+      "word": "tapioca powder",
+      "translate": "木薯粉",
+      "ex": ""
+    },
+    {
+      "word": "splash",
+      "translate": "潑灑",
+      "ex": ""
+    },
+    {
+      "word": "genuine",
+      "translate": "truly what something is said to be",
+      "ex": ""
+    },
+    {
+      "word": "syrup",
+      "translate": "a thick, sweet liquid made by dissolving sugar in boiling water, often used for preserving fruit.",
+      "ex": ""
+    },
+    {
+      "word": "raisin",
+      "translate": "葡萄乾",
+      "ex": ""
+    },
+    {
+      "word": "grape",
+      "translate": "葡萄",
+      "ex": ""
+    },
+    {
+      "word": "moist",
+      "translate": "slightly wet.",
+      "ex": ""
+    },
+    {
+      "word": "peculiar",
+      "translate": "different to what is normal or expected; strange",
+      "ex": ""
+    },
+    {
+      "word": "tropical",
+      "translate": "熱帶的",
+      "ex": ""
+    },
+    {
+      "word": "organically",
+      "translate": " from or in connection with living matter",
+      "ex": ""
+    },
+    {
+      "word": "chemical",
+      "translate": "化學",
+      "ex": ""
+    },
+    {
+      "word": "cozy",
+      "translate": "comfortable",
       "ex": ""
     }
   ]
